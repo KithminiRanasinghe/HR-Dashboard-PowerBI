@@ -1,4 +1,4 @@
-# 👷👷‍♀HR Dashboard in Power BI
+# 👷👩‍⚕HR Dashboard in Power BI
 
 This project is an interactive HR Dashboard built using Power BI. It visualizes key HR metrics such as:
 
